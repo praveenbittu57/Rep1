@@ -1,1 +1,3 @@
-Print("Hello World")
+print("Hello World")
+
+print("New line added")
